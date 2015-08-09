@@ -1,0 +1,22 @@
+name: MyPaint
+desc: Immersive, minimal painting and drawing program for artists and creatives. Handles pressure and tilt from graphics tablets where supported.
+site: http://mypaint.org/
+tags:
+- Python
+- C++
+- C
+- SWIG
+- SCons
+- GTK+
+- painting
+- drawing
+- art
+- create
+- layers
+- openraster
+- fullscreen
+- minimal
+- libre graphics
+upforgrabs:
+  name: bitesize
+  link: https://github.com/mypaint/mypaint/labels/bitesize
